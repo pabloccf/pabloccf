@@ -12,7 +12,7 @@ Here I upload some of the proyects that I make at the university and some other 
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pabloccf1805)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pabloccf)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-l%C3%B3pez-gos%C3%A1lvez-9bbb0b228/)
-<!--[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)] -->
+[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJfscjwGwPmGdgHfBTgLlMWzBWwvbdBLRtxHFklXlVClnwTFJNnFvHvfJxTBRfzThMLLLJV)
 
 <br>
 
@@ -42,7 +42,6 @@ Here I upload some of the proyects that I make at the university and some other 
 <img align="left" alt="Ubuntu" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="Visual Studio Code" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<!-- <img align="left" alt="GitHub" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
 
 <br><br>
 
