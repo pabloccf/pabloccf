@@ -45,3 +45,9 @@ Here I upload some of the proyects that I make at the university and some other 
 
 <br><br>
 
+## 🚀 My Github Stats:
+
+| ![pabloccf Github Stats](https://github-readme-stats.vercel.app/api?username=pabloccf&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true) | [![pabloccf Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloccf&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/pabloccf/github-readme-stats) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br>
