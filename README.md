@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 About me
 
-Hi! I'm Pablo López, a Full Stack Software Developer from Córdoba, Spain 🇪🇸📍
+Hi! I'm Pablo López, a Full Stack Developer from Córdoba, Spain 🇪🇸📍
 
 I'm a Computer Engineer specialized in full-stack web development, mainly focused on the .NET and Angular ecosystems, building web applications and RESTful APIs. I love software design and architecture, and I'm always learning new things to build scalable, maintainable and high-quality solutions 🚀
 
@@ -55,50 +55,63 @@ Development and maintenance of web applications with PHP, Symfony, JavaScript an
 
 ## 💻 Technologies, tools and languages
 
-<img align="left" alt="C" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C#" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Java" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" />
-<img align="left" alt="PHP" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" />
-<img align="left" alt="Bash" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-original.svg" />
+### 🎨 Frontend
 
-<br><br>
+<img alt="HTML5" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" />
+<img alt="CSS3" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" />
+<img alt="JavaScript" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" />
+<img alt="Angular" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angularjs/angularjs-original.svg" />
+<img alt="jQuery" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jquery/jquery-original.svg" />
+<img alt="Bootstrap" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bootstrap/bootstrap-original.svg" />
+<img alt="Tailwind" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 
-<img align="left" alt="HTML5" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Angular" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="jQuery" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jquery/jquery-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+<br>
 
-<br><br>
+### ⚙️ Backend
 
-<img align="left" alt=".NET" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dot-net/dot-net-original.svg" />
-<img align="left" alt=".NET Core" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Symfony" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/symfony/symfony-original.svg" />
+<img alt="C#" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" />
+<img alt=".NET" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dot-net/dot-net-original.svg" />
+<img alt=".NET Core" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" />
+<img alt="Java" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" />
+<img alt="PHP" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" />
+<img alt="Symfony" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/symfony/symfony-original.svg" />
+<img alt="C" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" />
+<img alt="C++" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" />
+<img alt="Bash" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-original.svg" />
 
-<br><br>
+<br>
 
-<img align="left" alt="SQL Server" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Oracle" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" />
+### 🗄️ Databases
 
-<br><br>
+<img alt="SQL Server" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img alt="MySQL" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" />
+<img alt="PostgreSQL" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" />
+<img alt="Oracle" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" />
+<img alt="MongoDB" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" />
 
-<img align="left" alt="Linux" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" />
-<img align="left" alt="Docker" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" />
-<img align="left" alt="GitLab" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Postman" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postman/postman-original.svg" />
-<img align="left" alt="Visual Studio" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" />
+<br>
 
-<br><br>
+### 🛠️ DevOps & Tools
+
+<img alt="Linux" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" />
+<img alt="Docker" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" />
+<img alt="Git" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" />
+<img alt="GitHub" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" />
+<img alt="GitLab" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gitlab/gitlab-original.svg" />
+<img alt="Postman" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postman/postman-original.svg" />
+<img alt="Visual Studio" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/visualstudio/visualstudio-original.svg" />
+<img alt="Visual Studio Code" width="30px" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" />
+
+<br>
+
+### 🤖 AI & Agentic Development
+
+![Claude Code](https://img.shields.io/badge/-CLAUDE%20CODE-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/-AGENTIC%20AI-6E40C9?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMSAyaDJ2M2g1YTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yaDV6TTggOWEyIDIgMCAxIDAgMCA0IDIgMiAwIDAgMCAwLTR6bTggMGEyIDIgMCAxIDAgMCA0IDIgMiAwIDAgMCAwLTR6TTggMTV2Mmg4di0yek0xIDEwaDJ2NUgxem0yMCAwaDJ2NWgtMnoiLz48L3N2Zz4=)
+![Human in the loop](https://img.shields.io/badge/-HUMAN%20IN%20THE%20LOOP-1F883D?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyYTQgNCAwIDEgMSAwIDggNCA0IDAgMCAxIDAtOHptMCAxMGM0LjQgMCA4IDIgOCA1djNINHYtM2MwLTMgMy42LTUgOC01eiIvPjwvc3ZnPg==)
+
+<br>
 
 ## 🚀 My Github Stats:
 
